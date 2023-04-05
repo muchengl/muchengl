@@ -8,9 +8,6 @@ I'm Andrea, a college students interested in computer science. My ambition is to
 
 <!--START_SECTION:waka-->
 
-```text
-Other    46 mins         █████████████▒░░░░░░░░░░░   53.01 %
-```
 
 <!--END_SECTION:waka-->
 <div align='center' display='flex'>

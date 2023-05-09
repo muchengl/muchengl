@@ -1,10 +1,10 @@
 # Hi, Andrea there! <img width='30px' height='30px'  src="https://evlic.github.io/dist/github-profile/wave.gif">
 
-I'm Andrea, a college students interested in computer science. My ambition is to become an excellent back-end engineer, nice to meet you at Github.
+I'm Andrea, a college student interested in computer science. My ambition is to become an excellent software engineer, nice to meet you at Github.
 
 ---
 
-## 👨‍💻Coding Life
+## 👩‍💻Coding Life
 
 <!--START_SECTION:waka-->
 

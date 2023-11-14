@@ -3,6 +3,6 @@
 I'm HL. My ambition is to become an excellent software engineer, nice to meet you at Github. </br>
 🏫 Texas A&M University</br>
 🎮 Ex-Intern in TikTok, Amazon, HiRain</br>
-❤️ Interested in Cloud Computing System, Serverless,Distributed system...</br>
+❤️ Interested in Cloud Computing System, Serverless, Distributed system...</br>
 
 

@@ -4,6 +4,6 @@
 I'm Hanzon. My ambition is to become an excellent software engineer, nice to meet you at Github. </br>
 🏫 Texas A&M University. Ex-intern in ByteDance, Amazon, HiRain</br>
 💻 Interested in Cloud Computing System, Serverless, Distributed system...</br>
-💼 Recently focuse on FaaS systems</br>
+💼 Recently focuse on FaaS systems and AI</br>
 🌐 Find me on : [LinkedIn](https://www.linkedin.com/in/hzliu/) | [Website](https://muchengl.github.io)
 

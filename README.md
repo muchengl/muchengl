@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=muchengl) <br>
 
 I'm Hazel, nice to meet you at Github. </br>
-🏫 Texas A&M University. Ex-intern in TikTok, Amazon, HiRain</br>
+🏫 Texas A&M University. Intern in LinkedIn, TikTok, Amazon, HiRain</br>
 💻 Interested in Cloud Computing System, Serverless, Distributed system...</br>
-💼 Recently focuse on FaaS systems and AI</br>
+💼 Recently focuse on MlSys, FaaS systems and AI</br>
 🌐 Find me on : [LinkedIn](https://www.linkedin.com/in/hzliu/) | [Website](https://muchengl.github.io)
 

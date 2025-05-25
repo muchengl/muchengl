@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=muchengl) <br>
 
 I'm Hanzon, nice to meet you at Github. </br>
-🏫 Texas A&M University. Intern in LinkedIn, TikTok, Amazon, HiRain</br>
+<!--  🏫 Texas A&M University. Intern in LinkedIn, TikTok, Amazon, HiRain</br> -->
 💼 Recently focuse on LM Agent</br>
 💻 Interested in MLSys, Cloud Computing System, Serverless, Distributed system...</br>
-🌐 Find me on : [LinkedIn](https://www.linkedin.com/in/hzliu/) | [Website](https://hzliu.io)
+<!-- 🌐 Find me on : [LinkedIn](https://www.linkedin.com/in/hzliu/) | [Website](https://hzliu.io) -->
 
